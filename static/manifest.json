@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "name": "jjjk",
+  "short_name": "jjjk",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "1280x481",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "128x121",
+      "type": "image/png"
+    }
+  ]
+}
